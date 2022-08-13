@@ -88,7 +88,7 @@ libc = { version = "0.2.66", default-features = false }
 paste = { package = "mini_paste", version = "0.1.*" }
 log.version = "0.4.8"
 log.optional = true
-inventory.version = "0.1.6"
+inventory.version = "0.3.1"
 inventory.optional = true
 scopeguard.version = "1.1.0"
 unwind_safe.version = "0.1.0"
